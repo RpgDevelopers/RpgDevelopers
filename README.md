@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
-
+<br>
 Welcome to my GitHub!
 <br>
 I am a seasoned Front-end Developer from Philippines with over seven years of extensive experience. Throughout my career, I have honed my skills in web development, ensuring that I can create clean, maintainable, and responsive web interfaces.
