@@ -18,9 +18,7 @@ Welcome to my GitHub!
 I am a seasoned Front-end Developer from Philippines with over seven years of extensive experience. Throughout my career, I have honed my skills in web development, ensuring that I can create clean, maintainable, and responsive web interfaces.
 
 My ability to collaborate with UX/UI designers and Back-end developers has allowed me to deliver comprehensive and user-friendly web solutions. My goal is to leverage my diverse skill set to continue creating exceptional user experiences and drive the success of future projects. I am inspired by creating great work with people who want to build something awesome!
-
 <br>
-
 ## Languages and Tools
 
 <!-- The icons used here are from skillicons.dev which match the visual style in your image perfectly -->
