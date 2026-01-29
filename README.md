@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hey 👋, I'm Evgeniy Vashchuk!
 
-<!--
-**RpgDevelopers/RpgDevelopers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Social Badges -->
+<p>
+  <a href="https://instagram.com/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://t.me/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
-Here are some ideas to get you started:
+Welcome to my GitHub!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+I am a seasoned Front-end Developer from Ukraine with over seven years of extensive experience. Throughout my career, I have honed my skills in web development, ensuring that I can create clean, maintainable, and responsive web interfaces.
+
+My ability to collaborate with UX/UI designers and Back-end developers has allowed me to deliver comprehensive and user-friendly web solutions. My goal is to leverage my diverse skill set to continue creating exceptional user experiences and drive the success of future projects. I am inspired by creating great work with people who want to build something awesome!
+
+<br>
+
+## Languages and Tools
+
+<!-- The icons used here are from skillicons.dev which match the visual style in your image perfectly -->
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,pug,css,sass,bootstrap,tailwind,js,jquery,react,ts,redux,gulp,npm,git,wordpress" />
+  </a>
+</p>
