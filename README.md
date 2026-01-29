@@ -2,6 +2,9 @@
 
 <!-- Social Badges -->
 <p>
+  <a href="https://instagram.com/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
   <a href="https://t.me/YOUR_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
@@ -16,8 +19,9 @@
 Welcome to my GitHub!
 
 <br>
+
 I am a seasoned Front-end Developer from Philippines with over seven years of extensive experience. Throughout my career, I have honed my skills in web development, ensuring that I can create clean, maintainable, and responsive web interfaces.
-<br>
+
 My ability to collaborate with UX/UI designers and Back-end developers has allowed me to deliver comprehensive and user-friendly web solutions. My goal is to leverage my diverse skill set to continue creating exceptional user experiences and drive the success of future projects. I am inspired by creating great work with people who want to build something awesome!
 
 <br>
